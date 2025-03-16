@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="220" src="https://nexalinux.xyz/brand/nexa2.png">
+  <img height="220" src="https://nexalinux.xyz/nexa2.png">
   <h1>Nexa Linux - Development ISO images</h1>
 </div>
 
